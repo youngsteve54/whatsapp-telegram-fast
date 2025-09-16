@@ -1,0 +1,21 @@
+{
+  "bot_token": "",
+  "admin_id": "7702386503",
+  "users": {},
+  "passkeys": {},
+  "admin_passkeys": {},
+  "max_users": 50,
+  "whatsapp_sessions_path": "./sessions/",
+  "linked_numbers": {},
+  "deleted_messages_path": "./deleted_messages/",
+  "deleted_messages_limit": 1000,
+  "check_interval": 0.1,
+  "max_parallel_tasks": 20,
+  "auto_delete": true,
+  "passkey_length": 6,
+  "log_user_activity": true,
+  "log_deleted_messages": true,
+  "notify_admin_on_access_attempt": true,
+  "max_ram_usage_mb": 800,
+  "retry_failed_tasks": true
+}
